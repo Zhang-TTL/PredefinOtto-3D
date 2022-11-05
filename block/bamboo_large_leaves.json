@@ -1,0 +1,8 @@
+{
+	"credit": "Made By SamXU1322",
+	"parent": "block/bamboo_small_leaves",
+	"textures": {
+		"particle": "block/bamboo_large_leaves",
+		"texture": "block/bamboo_large_leaves"
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"credit": "Made By SamXU1322",
+	"textures": {
+		"particle": "block/brewing_stand",
+		"texture": "block/brewing_stand"
+	},
+	"elements": [
+		{
+			"from": [5.9, 3, 7.5],
+			"to": [7.9, 14.01, 8.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [6, 2, 8, 13], "texture": "#texture"},
+				"east": {"uv": [6, 2, 8, 13], "texture": "#texture"},
+				"south": {"uv": [6, 2, 8, 13], "texture": "#texture"},
+				"west": {"uv": [6, 2, 8, 13], "texture": "#texture"},
+				"up": {"uv": [6, 2, 8, 4], "texture": "#texture"},
+				"down": {"uv": [6, 12, 8, 14], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [1.9, 12, 7.5],
+			"to": [5.9, 16, 8.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [6, 0, 2, 4], "texture": "#texture"},
+				"east": {"uv": [4, 0, 6, 4], "texture": "#texture"},
+				"south": {"uv": [2, 0, 6, 4], "texture": "#texture"},
+				"west": {"uv": [2, 0, 4, 4], "texture": "#texture"},
+				"up": {"uv": [2, 0, 6, 2], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [2, 2, 6, 4], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [1.91, 6, 7.5],
+			"to": [3.89, 12, 8.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [2, 4, 4, 10], "texture": "#texture"},
+				"east": {"uv": [2, 4, 4, 10], "texture": "#texture"},
+				"south": {"uv": [2, 4, 4, 10], "texture": "#texture"},
+				"west": {"uv": [2, 4, 4, 10], "texture": "#texture"},
+				"down": {"uv": [2, 8, 4, 10], "texture": "#texture"}
+			}
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"credit": "Made By SamXU1322",
+	"ambientocclusion": false,
+	"textures": {
+		"base": "block/lever_base",
+		"particle": "block/lever",
+		"lever": "block/lever"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 4, 12],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 4], "texture": "#base"},
+				"east": {"uv": [4, 0, 12, 4], "texture": "#base"},
+				"south": {"uv": [4, 0, 12, 4], "texture": "#base"},
+				"west": {"uv": [4, 0, 12, 4], "texture": "#base"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#base"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#base", "cullface": "down"}
+			}
+		},
+		{
+			"from": [6, 2, 6],
+			"to": [10, 10, 10],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 1, 8]},
+			"faces": {
+				"north": {"uv": [6, 8, 10, 16], "texture": "#lever"},
+				"east": {"uv": [6, 8, 10, 16], "texture": "#lever"},
+				"south": {"uv": [6, 8, 10, 16], "texture": "#lever"},
+				"west": {"uv": [6, 8, 10, 16], "texture": "#lever"},
+				"up": {"uv": [6, 8, 10, 12], "texture": "#lever"}
+			}
+		}
+	]
+}
