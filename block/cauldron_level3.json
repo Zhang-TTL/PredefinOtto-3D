@@ -5,7 +5,8 @@
 		"bottom": "block/cauldron_bottom",
 		"particle": "block/cauldron_side",
 		"side": "block/cauldron_side",
-		"inside": "block/cauldron_inner"
+		"inside": "block/cauldron_inner",
+		"water": "block/water_still"
 	},
 	"elements": [
 		{
@@ -238,6 +239,17 @@
 				"east": {"uv": [2, 12, 4, 16], "texture": "#side", "cullface": "east"},
 				"west": {"uv": [12, 12, 14, 16], "texture": "#side"},
 				"down": {"uv": [14, 2, 16, 4], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [2, 4, 2],
+			"to": [14, 15, 14],
+			"faces": {
+				"north": {"uv": [2, 2, 14, 14], "texture": "#water", "cullface": "up", "tintindex": 0},
+				"east": {"uv": [2, 2, 14, 14], "texture": "#water", "cullface": "up", "tintindex": 0},
+				"south": {"uv": [2, 2, 14, 14], "texture": "#water", "cullface": "up", "tintindex": 0},
+				"west": {"uv": [2, 2, 14, 14], "texture": "#water", "cullface": "up", "tintindex": 0},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#water", "cullface": "up", "tintindex": 0}
 			}
 		},
 		{
