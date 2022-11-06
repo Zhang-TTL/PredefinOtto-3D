@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "crimson_planks"
-  },
-  "elements": [
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "block/crimson_planks"
+	},
+	"elements": [
 		{
 			"from": [14, 0, -0.1],
 			"to": [15.9, 2, 1],

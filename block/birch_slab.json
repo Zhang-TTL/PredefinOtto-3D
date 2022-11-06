@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "birch_planks"
-  },
-  "elements": [
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "block/birch_planks"
+	},
+	"elements": [
 		{
 			"from": [14, 0, -0.1],
 			"to": [15.9, 2, 1],

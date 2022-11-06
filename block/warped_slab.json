@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:block/clube_all",
-  "textures": {
-    "all": "warped_planks"
-  },
-  "elements": [
+	"parent": "minecraft:block/clube_all",
+	"textures": {
+		"all": "block/warped_planks"
+	},
+	"elements": [
 		{
 			"from": [14, 0, -0.1],
 			"to": [15.9, 2, 1],
