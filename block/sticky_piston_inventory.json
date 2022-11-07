@@ -1,0 +1,7 @@
+{
+	"credit": "Made By SamXU1322",
+	"parent": "block/piston_inventory",
+	"textures": {
+		"top": "block/piston_top_sticky"
+	}
+}

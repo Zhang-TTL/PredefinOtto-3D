@@ -1,0 +1,7 @@
+{
+	"credit": "Made By SamXU1322",
+	"parent": "block/leaves_notint",
+	"textures": {
+		"all": "block/birch_leaves"
+	}
+}

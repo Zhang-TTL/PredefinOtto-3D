@@ -1,0 +1,7 @@
+{
+	"credit": "Made By SamXU1322",
+	"parent": "block/carved_pumpkin",
+	"textures": {
+		"front": "block/jack_o_lantern"
+	}
+}
