@@ -5,7 +5,8 @@
 		"bottom": "block/cauldron_bottom",
 		"particle": "block/cauldron_side",
 		"side": "block/cauldron_side",
-		"inside": "block/cauldron_inner"
+		"inside": "block/cauldron_inner",
+		"content": "block/powder_snow"
 	},
 	"elements": [
 		{
@@ -242,7 +243,7 @@
 		},
 		{
 			"from": [2, 4, 2],
-			"to": [14, 15, 14],
+			"to": [14, 12, 14],
 			"faces": {
 				"north": {"uv": [2, 2, 14, 14], "texture": "#content", "cullface": "up", "tintindex": 0},
 				"east": {"uv": [2, 2, 14, 14], "texture": "#content", "cullface": "up", "tintindex": 0},
