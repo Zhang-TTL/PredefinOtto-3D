@@ -1,9 +1,0 @@
-{
-	"credit": "Made By SamXU1322",
-	"parent": "block/cube_bottom_top",
-	"textures": {
-		"bottom": "block/sandstone",
-		"top": "block/sandstone",
-        		"side": "block/sandstone"
-	}
-}

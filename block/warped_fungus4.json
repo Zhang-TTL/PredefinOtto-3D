@@ -1,7 +1,0 @@
-{
-	"credit": "Made By SamXU1322",
-	"parent": "minecraft:block/cross",
-	"textures": {
-		"cross": "block/warped_fungus4"
-	}
-}

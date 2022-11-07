@@ -1,7 +1,0 @@
-{
-	"credit": "Made By SamXU1322",
-	"parent": "block/fence_post",
-	"textures": {
-		"texture": "block/dark_oak_fence"
-	}
-}

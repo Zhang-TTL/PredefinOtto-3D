@@ -1,7 +1,0 @@
-{
-	"credit": "Made By SamXU1322",
-	"parent": "minecraft:block/cube_all",
-	"textures": {
-		"all": "block/warped_wart_block1"
-	}
-}
