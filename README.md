@@ -1,5 +1,7 @@
 ### 这是PredefinOtto-3D (Tridimensionale)附加模型包
-这是用于SamXU1322的X8-Default材质包的**附加模型包**  
+这是一个mincraft材质包
+
+用于SamXU1322的X8-Default材质包的**附加模型包**  
 
 计划为所有方块添加额外的模型
 
