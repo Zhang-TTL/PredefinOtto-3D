@@ -18,4 +18,6 @@
 
 本材质包由我制作的模型版权归我所有，其他均由SamXU1322所有。
 
-咕咕咕，还没写完
+示例：
+
+![photo 示例](https://github.com/Zhang-TTL/PredefinOtto-3D/blob/master/photo/屏幕截图(60).png)
