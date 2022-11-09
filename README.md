@@ -14,7 +14,7 @@
 
 建议提前阅读项目lssues，获取最新的bug信息。
 
-[bug提交](github.com/Zhang-TTL/PredefinOtto-3D/lssues)
+[bug提交](https://github.com/Zhang-TTL/PredefinOtto-3D/issues)
 
 本材质包由我制作的模型版权归我所有，其他均由SamXU1322所有。
 
