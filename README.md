@@ -10,13 +10,13 @@
 虽然材质本身为8X8的轻量材质，但由于增加了较多的表面，需要较强力的电脑。
 (例如工作台由153个小方块构成）
 
-遵循CC-BY-NC-SA 4.0协议开源
-
 建议提前阅读项目lssues，获取最新的bug信息。
 
 [bug提交](https://github.com/Zhang-TTL/PredefinOtto-3D/issues/new)
 
 本材质包由我制作的模型版权归我所有，其他均由SamXU1322所有。
+
+ PredefinOtto-3D © 2022 by Zhang_TTL is licensed under Attribution-NonCommercial-ShareAlike 4.0 International 
 
 示例：
 
