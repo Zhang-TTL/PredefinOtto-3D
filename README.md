@@ -17,6 +17,8 @@
 本材质包由我制作的模型版权归我所有，其他均由SamXU1322所有。
 
  PredefinOtto-3D © 2022 by Zhang_TTL is licensed under Attribution-NonCommercial-ShareAlike 4.0 International 
+ 
+  **警告**：此为前期开发版本，含有未知bug可能性极大，请自行评估使用风险，不建议直接用于生产环境！
 
 示例：
 
