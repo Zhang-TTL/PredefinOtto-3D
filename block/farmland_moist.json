@@ -1,8 +1,0 @@
-{
-	"credit": "Made By SamXU1322",
-	"parent": "minecraft:block/template_farmland",
-	"textures": {
-		"dirt": "block/farmland_moist_side",
-		"top": "block/farmland_moist"
-	}
-}

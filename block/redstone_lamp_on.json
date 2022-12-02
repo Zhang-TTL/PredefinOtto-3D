@@ -1,7 +1,0 @@
-{
-	"credit": "Made By SamXU1322",
-	"parent": "block/redstone_lamp",
-	"textures": {
-		"all": "block/redstone_lamp_on"
-	}
-}
