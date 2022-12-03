@@ -17,8 +17,6 @@
 [bug提交](https://github.com/Zhang-TTL/PredefinOtto-3D/issues/new)
 
 [下载分流](http://zhang-ttl.ysepan.com/) 
- 
-**注意**：与8x Default V11 pre2更新兼容性未知
 
 **注意**：PredefinOtto-Max性能要求极高(RTX3090 3fps)
 
