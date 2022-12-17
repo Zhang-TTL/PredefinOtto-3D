@@ -9,18 +9,6 @@
 	},
 	"elements": [
 		{
-			"from": [0, 0, 0],
-			"to": [16, 16, 16],
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#front", "cullface": "north"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "east"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "south"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "west"},
-				"up": {"uv": [0, 16, 16, 0], "texture": "#top", "cullface": "up"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "down"}
-			}
-		},
-		{
 			"from": [0, 0, 14],
 			"to": [16, 2, 16],
 			"faces": {
@@ -291,13 +279,13 @@
 		}
 	},
 	"groups": [
-		0,
 		{
 			"name": "group",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 		},
+		12,
 		13,
 		14,
 		15,
@@ -310,7 +298,6 @@
 		22,
 		23,
 		24,
-		25,
-		26
+		25
 	]
 }
