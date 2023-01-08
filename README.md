@@ -5,7 +5,7 @@
 
 计划为所有方块添加额外的模型
 
-进度  9%  [=>------------------] 130/1794
+进度  12%  [=>------------------] 171/1794
 
 虽然材质本身为8X8的轻量材质，但由于增加了较多的表面，需要较强力的电脑。
 (例如工作台由153个小方块构成）
@@ -24,7 +24,7 @@
 
 本材质包由我制作的模型版权归我所有，其他均由SamXU1322所有。
 
-PredefinOtto-3D © 2022 by Zhang_TTL is licensed under Attribution-NonCommercial-ShareAlike 4.0 International 
+PredefinOtto-3D © 2022-2023 by Zhang_TTL is licensed under Attribution-NonCommercial-ShareAlike 4.0 International 
 
 示例：
 
