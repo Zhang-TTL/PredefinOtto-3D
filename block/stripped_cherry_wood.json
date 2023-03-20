@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:block/cube_column",
 	"textures": {
-		"side": "block/dark_oak_log"
+		"side": "block/stripped_cherry_log"
 	},
 	"elements": [
 		{
