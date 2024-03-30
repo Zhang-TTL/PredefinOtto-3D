@@ -27,5 +27,5 @@ PredefinOtto-3D © 2022-2023 by Zhang_TTL is licensed under Attribution-NonComme
 
 示例：
 
-![photo 示例](https://github.com/Zhang-TTL/PredefinOtto-3D/master/photo/sample.png)
+![photo 示例](https://github.com/Zhang-TTL/PredefinOtto-3D/blob/master/photo/sample.png)
 
